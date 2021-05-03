@@ -19,7 +19,17 @@
 
 ### Component Diagram
 
-![Keg Component Diagram](/./img/KegDiagram.png)
+![Keg Component Diagram](/src/img/KegDiagram.PNG)
+
+## Setup/Installation Requirements
+
+1. In your terminal of choice, navigate to the desired location on your local machine and run the command `git clone https://github.com/kimwoojin211/tap-room-redux-remix` (alternatively, download the zipped folder from the URL and unzip the folder in your desired folder)
+2. Navigate into the newly created directory.
+3. Ensure Node and NPM are installed on your machine. (See [here](https://www.npmjs.com/get-npm) for more info)
+4. Enter `npm install` to install dependencies into the project
+5. Enter `npm run start` into your terminal to launch the application.
+6. To exit live server, press Ctrl+C in your terminal.
+7. For more information on React, please see the section below.
 
 # Getting Started with Create React App
 
